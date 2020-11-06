@@ -1,2 +1,3 @@
 console.log("Khởi tạo dự án");
-console.log("Code của Son")
+//step 1: git init => create project
+console.log("Code của Son đã sửa");
